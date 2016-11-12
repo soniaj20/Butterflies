@@ -1,0 +1,29 @@
+,<style>
+h1 {
+	color: green;
+	}
+
+h2 {color: blue;
+}
+p{
+	/* The paragraphs will all be green. You're welcome*/
+	font-size: 15px;
+}
+
+
+p{
+	background-color: rgb(199,231,220);
+	font-family: Helvetica, "Trebuchet MS", sans-serif;
+	/* The paragraphs will all be green. You're welcome*/
+	font-size: 15px;
+}
+
+
+</style>
+img{
+	margin: 50px;
+}
+img{
+	height: 200px;
+	width:300px;
+}
